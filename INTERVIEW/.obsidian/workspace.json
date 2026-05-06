@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试相关/Financial agent问题.md",
+                "file": "概念学习/Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial agent问题"
+              "title": "Transformer"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcbfde14142023ea",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试相关/Financial agent问题.md",
+                "file": "概念学习/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Financial agent问题 的反向链接列表"
+              "title": "Transformer 的反向链接列表"
             }
           },
           {
@@ -184,8 +185,9 @@
   },
   "active": "d1e95a50b34c5524",
   "lastOpenFiles": [
-    "面试相关/Agent八股面经：.md",
     "面试相关/Financial agent问题.md",
+    "Attachments/Pasted image 20260507024403.png",
+    "面试相关/Agent八股面经：.md",
     "未命名",
     "mobile-test.md.md",
     "test-sync.md.md",
@@ -202,7 +204,6 @@
     "Attachments/Pasted image 20260407191044.png",
     "Attachments/Pasted image 20260407191019.png",
     "Attachments/Pasted image 20260407190931.png",
-    "Attachments/Pasted image 20260407190840.png",
     "概念学习",
     "欢迎.md",
     "面试相关",
