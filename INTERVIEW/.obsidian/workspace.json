@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试相关/Agent八股面经：.md",
+                "file": "面试相关/Financial agent问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent八股面经："
+              "title": "Financial agent问题"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面试相关/Financial agent问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Financial agent问题 的反向链接列表"
             }
           },
           {
@@ -183,12 +184,12 @@
   },
   "active": "d1e95a50b34c5524",
   "lastOpenFiles": [
+    "面试相关/Agent八股面经：.md",
+    "面试相关/Financial agent问题.md",
     "未命名",
     "mobile-test.md.md",
     "test-sync.md.md",
-    "面试相关/Agent八股面经：.md",
     "面试相关/自我介绍.md",
-    "面试相关/Financial agent问题.md",
     "Attachments/Pasted image 20260506162848.png",
     "Attachments/Pasted image 20260506162026.png",
     "面试相关/通用问题.md",
