@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "48d5cd73bafa3f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3ac41dc4b5a24d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d607bb08f33d86",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 27.98327629900828,
+                  "y": 102.15156833428249,
+                  "zoom": -0.6666666522170561
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b2094c968670393",
+    "type": "split",
+    "children": [
+      {
+        "id": "7772f54914ca22ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79691435f9d7019a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1dfa76ad37300782",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#主菜",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "624f96247545b325",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc5ca984c0e43e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e7db1c4c528f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1553a00b16e6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "5b56eab6b2f2525d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "土豆牛腩.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "土豆牛腩 的反向链接列表"
+            }
+          },
+          {
+            "id": "14ac60e88ad9264b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "土豆牛腩.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "土豆牛腩 的出链列表"
+            }
+          },
+          {
+            "id": "320242ed3731ca48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7aa61fc1208cebec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "土豆牛腩.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "土豆牛腩 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "21d607bb08f33d86",
+  "lastOpenFiles": [
+    "今天晚上吃什么.md",
+    "未命名.canvas",
+    "土豆牛腩.md",
+    "欢迎.md",
+    "[百度一下，你就知道.md",
+    "attchments/Pasted image 20251105163555.png",
+    "attchments/土豆牛腩.jpeg",
+    "attchments",
+    "新建文件夹",
+    "第一章/1.1.md",
+    "未命名",
+    "第二章",
+    "第一章"
+  ]
+}

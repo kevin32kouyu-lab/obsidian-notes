@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d14ef688d8e215b3","x":-121,"y":-25,"width":250,"height":60,"color":"2","type":"text","text":"寇宇"},
+		{"id":"d826f0f80995a577","x":129,"y":220,"width":231,"height":160,"color":"4","type":"file","file":"土豆牛腩.md"}
+	],
+	"edges":[
+		{"id":"cd86f6395eae4a53","fromNode":"d14ef688d8e215b3","fromSide":"right","toNode":"d826f0f80995a577","toSide":"top"}
+	]
+}

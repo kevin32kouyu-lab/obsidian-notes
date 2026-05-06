@@ -1,0 +1,12 @@
+{
+  "workspace:goto-tab-2": [],
+  "editor:open-search-replace": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
