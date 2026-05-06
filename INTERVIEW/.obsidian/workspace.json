@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Agent八股面经："
             }
-          },
-          {
-            "id": "920de1d0cc100189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-sync.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test-sync.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "920de1d0cc100189",
+  "active": "324398f1ef8788ed",
   "lastOpenFiles": [
-    "面试相关/Agent八股面经：.md",
+    "mobile-test.md.md",
     "test-sync.md.md",
+    "面试相关/Agent八股面经：.md",
     "面试相关/自我介绍.md",
     "面试相关/Financial agent问题.md",
     "Attachments/Pasted image 20260506162848.png",
