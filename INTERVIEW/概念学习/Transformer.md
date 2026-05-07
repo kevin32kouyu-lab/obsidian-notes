@@ -66,6 +66,20 @@ GPU 对比页面用 AI 工具生成的代码：https://www.blackbox.ai/
 手写数字识别过程演示：https://felixzhang00.github.io/DL/mnist/ 
 3D CNN 网络可视化：https://adamharley.com/nn_vis/cnn/3d.html
 ### 5. 从词嵌入到RNN
+![[Pasted image 20260508002838.png]]
+编码：把文字变成计算机能够识别的数字
+![[Pasted image 20260508002955.png|677]]
+one-hot编码：准备一个超长的向量，每个词只有某一个位置是1，其他位置是0。缺点：维度高且很稀疏，且每个词之间都是正交的，无法找到他们的相关性。
+![[Pasted image 20260508003142.png|611]]
+
+词嵌入word Enbedding：通过词嵌入得到词向量，维度不高也不低， 每个位置处依然可以理解为某一个特征值（但是这个特征值是训练出来的，人类不一定能理解）
+![[Pasted image 20260508003418.png]]
+![[Pasted image 20260508003429.png|581]]
+用点积可以表明两个词的相关性
+![[Pasted image 20260508003621.png]]
+例如一个训练好的词嵌入矩阵可以使得：桌子-椅子=鼠标-键盘
+
+
 
 ### 6. 简单而强大的Transformer
 

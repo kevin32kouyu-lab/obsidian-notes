@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcbfde14142023ea",
@@ -184,6 +185,12 @@
   },
   "active": "d1e95a50b34c5524",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260508003621.png",
+    "Attachments/Pasted image 20260508003429.png",
+    "Attachments/Pasted image 20260508003418.png",
+    "Attachments/Pasted image 20260508003142.png",
+    "Attachments/Pasted image 20260508002955.png",
+    "Attachments/Pasted image 20260508002838.png",
     "面试相关/Financial agent问题.md",
     "Attachments/Pasted image 20260507024403.png",
     "面试相关/Agent八股面经：.md",
@@ -198,11 +205,6 @@
     "概念学习/Transformer.md",
     "Attachments/Pasted image 20260408001442.png",
     "Attachments/Pasted image 20260408001250.png",
-    "Attachments/Pasted image 20260408000906.png",
-    "Attachments/Pasted image 20260407235609.png",
-    "Attachments/Pasted image 20260407191044.png",
-    "Attachments/Pasted image 20260407191019.png",
-    "Attachments/Pasted image 20260407190931.png",
     "概念学习",
     "欢迎.md",
     "面试相关",
