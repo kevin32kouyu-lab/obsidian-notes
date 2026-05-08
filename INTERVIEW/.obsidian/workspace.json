@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念学习/Transformer.md",
+                "file": "面试相关/Agent八股面经：.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformer"
+              "title": "Agent八股面经："
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "d1e95a50b34c5524",
   "lastOpenFiles": [
+    "概念学习/Transformer.md",
     "Attachments/Pasted image 20260508013735.png",
     "Attachments/Pasted image 20260508013333.png",
     "Attachments/Pasted image 20260508013053.png",
@@ -194,7 +195,6 @@
     "Attachments/Pasted image 20260508012620.png",
     "Attachments/Pasted image 20260508012450.png",
     "Attachments/Pasted image 20260508012354.png",
-    "Attachments/Pasted image 20260508012224.png",
     "面试相关/Financial agent问题.md",
     "面试相关/Agent八股面经：.md",
     "未命名",
@@ -203,7 +203,6 @@
     "面试相关/自我介绍.md",
     "面试相关/通用问题.md",
     "面试相关/嵌入式相关的问题：.md",
-    "概念学习/Transformer.md",
     "概念学习",
     "欢迎.md",
     "面试相关",
